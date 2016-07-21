@@ -18,7 +18,6 @@ public:
         T   valor;
         No* filhoEsq;
         No* filhoDir;
-        int largura;
 
 
         No(){
